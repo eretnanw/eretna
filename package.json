@@ -20,7 +20,7 @@
     "discord": "^0.8.2",
     "discord.js": "^11.5.1",
     "discord.js-commando": "^0.10.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ffmpeg": "^0.0.4",
     "fs": "^0.0.1-security",
     "funny-words": "^0.1.2",
